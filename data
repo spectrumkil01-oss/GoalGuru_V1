@@ -1,3 +1,7 @@
 Date,HomeTeam,AwayTeam,HomeGoals,AwayGoals
 2025-01-01,TeamA,TeamB,2,1
 2025-01-02,TeamC,TeamD,0,0
+2025-01-03,TeamE,TeamF,1,3
+2025-01-04,TeamA,TeamC,1,2
+2025-01-05,TeamB,TeamD,3,1
+2025-01-06,TeamE,TeamA,0,2
