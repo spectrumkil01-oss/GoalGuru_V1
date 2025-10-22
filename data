@@ -5,3 +5,10 @@ Date,HomeTeam,AwayTeam,HomeGoals,AwayGoals
 2025-01-04,TeamA,TeamC,1,2
 2025-01-05,TeamB,TeamD,3,1
 2025-01-06,TeamE,TeamA,0,2
+Date,HomeTeam,AwayTeam,HomeGoals,AwayGoals
+2025-01-01,TeamG,TeamH,1,0
+2025-01-02,TeamI,TeamJ,2,2
+2025-01-03,TeamK,TeamL,0,1
+2025-01-04,TeamG,TeamI,3,2
+2025-01-05,TeamH,TeamJ,1,1
+2025-01-06,TeamK,TeamG,0,0
