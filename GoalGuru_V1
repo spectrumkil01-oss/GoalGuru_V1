@@ -1,0 +1,9 @@
+GoalGuru_V1/
+├─ app.py
+├─ predictor.py
+├─ utils.py
+├─ requirements.txt
+├─ README.md
+└─ data/
+    ├─ league1.csv
+    └─ league2.csv
